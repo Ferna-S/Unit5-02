@@ -1,4 +1,4 @@
-document.getElementById('button').addEventListener ('click',coolStuff)
+document.getElementById('button').addEventListener('click', coolStuff)
 
 function coolStuff () {
   alert('Hello World')
